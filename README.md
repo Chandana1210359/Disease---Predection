@@ -1,2 +1,2 @@
-# Disease---Predection
+# Disease-Predection
 Disease - Predection
